@@ -2,7 +2,7 @@
 ![UFOhtml](https://user-images.githubusercontent.com/30667001/157450985-dbd1691b-25d5-4ae0-954c-c40051de19ff.png)
 
 ## Resources
-* Data Source: An array of UFO sightings that occurred 1/1/20-1/13/20 throughout the United States
+* Data Source: An array of UFO sightings that occurred 1/1/10-1/13/10 throughout the United States
 * Software: Visual Studio Code 1.65.0
 * Libraries: JavaScript's Data Driven Documents Library (D3)
 * Applications/Languages: Chrome DevTools, HTML, JavaScript, CSS
